@@ -99,6 +99,7 @@ footer h2 {
 	z-index: 999;
 	width: 100%;
 	left: 0;
+	background: black;
 }
 
 a.navbar-brand {
